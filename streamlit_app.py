@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("welcome to my first app 👀")
+st.title("welcome to the skz hot megaverse web 👀")
 st.write(
-    "enjoy"
+    "this web is made by a stay, HII Im Mallika from XF and leeknow is my bias"
 )
